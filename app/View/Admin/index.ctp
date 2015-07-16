@@ -1,0 +1,1 @@
+<h1><?php echo __('Chào mừng bạn đến với BackEnd Lovip88.com')?></h1>
